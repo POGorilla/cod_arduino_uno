@@ -20,7 +20,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   //~
   float duration, distance;  
   digitalWrite(trigPin1, LOW);  
